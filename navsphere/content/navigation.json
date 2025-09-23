@@ -92,6 +92,14 @@
           "description": "即梦AI一站式智能创作平台，即刻造梦。提供AI绘画和AIGC视频创作体验，拥有激发无限创作灵感的社区。让即梦AI开启您的智能创作之旅，探索梦境实现的无限可能！",
           "icon": "/assets/favicon_1758606803462.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1758619558918_o39k55bp9",
+          "title": "Durable AI Website Builder and Small Business Software",
+          "href": "https://durable.co",
+          "description": "Generate a website in 30 seconds with the world&#x27;s fastest AI website builder. Then, use powerful AI marketing, invoicing, and CRM tools to grow your business. All with one app.",
+          "icon": "/assets/favicon_1758619547817.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
