@@ -160,6 +160,14 @@
           "description": "Toolify is the largest AI tools directory &amp; GPT Store Apps. Over 26700+ AI Websites and AI Tools. AI Tools list and GPTs Store Apps list are auto updated by ChatGPT.",
           "icon": "/assets/favicon_1758595863079.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1758603652705_7ozx155xf",
+          "title": "Aidh123 AI导航123",
+          "href": "https://aidh123.com/",
+          "description": "AI导航123 | AI导航网站,AI导航官网,AI工具导航,AI工具箱,500+ ...\n",
+          "icon": "/assets/favicon_1758603573811.png",
+          "enabled": true
         }
       ],
       "subCategories": []
