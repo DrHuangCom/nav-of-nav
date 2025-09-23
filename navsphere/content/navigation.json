@@ -128,6 +128,14 @@
           "description": "汇聚互联网中最全的AI人工智能工具资源，分类整理AI绘画、对话聊天、音频等工具，方便用户快速找到适合的AI工具.",
           "icon": "/assets/favicon_1758595308713.png",
           "enabled": true
+        },
+        {
+          "id": "site_1758595588983_7whapqcs6",
+          "title": "Ainavpro",
+          "href": "https://www.ainavpro.com/",
+          "description": "集成最新AI产品的网站，提供多样化信息和服务，以提升用户生活体验.",
+          "icon": "/assets/favicon_1758595529934.png",
+          "enabled": true
         }
       ],
       "subCategories": []
