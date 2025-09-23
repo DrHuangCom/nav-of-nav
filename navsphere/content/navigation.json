@@ -144,6 +144,14 @@
           "description": "AIDH选及整理最优秀的AI绘画,AI聊天,AI提示词,AI办公,AIGC,文生图等网站,让AI融入每个人的工作与生活,收录网站包括AI生成图片、AI生成视频、AI生成文案、文生图、AI绘画、AI办公、AI聊天等等。拥有智能推荐、强大的站内搜索、账号收藏云同步、自定义站点、只为前沿生产力而生。用AI就上AIDH！",
           "icon": "/assets/favicon_1758595650828.png",
           "enabled": true
+        },
+        {
+          "id": "site_1758595765798_aly6g69ms",
+          "title": "Amz123",
+          "href": "https://www.amz123.com/ai",
+          "description": "收录数百款工具，提供各类AI工具，助力卖家轻松找到合适工具进行创作和智能对话.",
+          "icon": "/assets/favicon_1758595699201.png",
+          "enabled": true
         }
       ],
       "subCategories": []
