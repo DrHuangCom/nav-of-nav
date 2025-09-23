@@ -192,6 +192,14 @@
           "description": "AIHub精选国内外999+优质AI工具、资源和资讯，包括AI绘画工具、AI写作工具、AI聊天工具、AI音视频工具、AI办公工具、AI游戏制作工具、AI营销工具等AI工具大全。我们希望通过努力，让更多个人和企业，了解人工智能，用好人工智能，高效工作，快乐生活。",
           "icon": "/assets/favicon_1758608015674.png",
           "enabled": true
+        },
+        {
+          "id": "site_1758666169428_6k8nf6ngo",
+          "title": "Gork in X by Mark",
+          "href": "x.ai",
+          "description": "gork.com, x.ai",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": []
