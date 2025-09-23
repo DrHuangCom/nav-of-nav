@@ -176,6 +176,14 @@
           "description": "AI导航是优设网旗下专业全面的AI工具导航！优设导航2012年成立至今，AIGC工具导航为AI创作者提供AI绘画、AI智能对话、AI翻译、AI提示词、AI工具、AI智能写作、AI 3D设计、AI视频、AI语音等AI网站导航指引。",
           "icon": "/assets/favicon_1758603736122.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1758607807259_rn0cnjke0",
+          "title": "Feizhuke",
+          "href": "https://feizhuke.com/",
+          "description": "非猪ai导航,最好的ai工具集合网站!让你秒变飞猪ai导航,是你人工智能工具箱和研究所,为你收集整理推荐国内外aigc软件服务,网址网站,包括文字写作,视觉,图片,视频,音频, ...\n",
+          "icon": "/assets/favicon_1758607734808.png",
+          "enabled": true
         }
       ],
       "subCategories": []
