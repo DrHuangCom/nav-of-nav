@@ -477,6 +477,14 @@
               "description": "Register domain names at Namecheap. Buy cheap domain names and enjoy 24/7 support. With over 18 million domains under management, you know you’re in good hands.",
               "icon": "/assets/favicon_1754295511938.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1758597233304_ooxqko44j",
+              "title": "Cheap Domain Names &amp; Web Hosting Starting at $0.99!",
+              "href": "https://www.namesilo.com/",
+              "description": "Cheap domain name registration and affordable website hosting. We offer free add-ons &amp; benefits that our competitors like to charge for. 24/7 Top-rated support!",
+              "icon": "/assets/favicon_1758597214404.ico",
+              "enabled": true
             }
           ]
         }
