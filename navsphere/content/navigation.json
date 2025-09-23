@@ -120,7 +120,16 @@
       "icon": "Folder",
       "description": "AI导航网站",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1758595441255_qu86d9ocy",
+          "title": "Ainav AI导航网",
+          "href": "https://www.ainav.cn/",
+          "description": "汇聚互联网中最全的AI人工智能工具资源，分类整理AI绘画、对话聊天、音频等工具，方便用户快速找到适合的AI工具.",
+          "icon": "/assets/favicon_1758595308713.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
