@@ -924,6 +924,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1758595147031",
+      "title": "AI导航网站",
+      "icon": "Folder",
+      "description": "AI导航网站",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
