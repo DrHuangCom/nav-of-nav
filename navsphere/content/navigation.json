@@ -62,14 +62,6 @@
           "icon": "/assets/favicon_1754218571142.svg"
         },
         {
-          "id": "1754229699374",
-          "title": "Lucide",
-          "href": "https://lucide.dev/",
-          "description": "Beautiful & consistent icon toolkit made by the community.",
-          "icon": "/assets/favicon_1754229702059.ico",
-          "enabled": true
-        },
-        {
           "id": "site_1758593169391_j132u081l",
           "title": "AI math handbook calculator - Fractional Calculus Computer Algebra System software",
           "href": "http://drhuang.com/science/mathematics/software/",
