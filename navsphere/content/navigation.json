@@ -168,6 +168,14 @@
           "description": "AI导航123 | AI导航网站,AI导航官网,AI工具导航,AI工具箱,500+ ...\n",
           "icon": "/assets/favicon_1758603573811.png",
           "enabled": true
+        },
+        {
+          "id": "site_1758603746881_5283yp6iq",
+          "title": "优设AI导航 - 国内专业AI工具导航网站 - 热门AI工具每周更新",
+          "href": "https://hao.uisdc.com/ai/",
+          "description": "AI导航是优设网旗下专业全面的AI工具导航！优设导航2012年成立至今，AIGC工具导航为AI创作者提供AI绘画、AI智能对话、AI翻译、AI提示词、AI工具、AI智能写作、AI 3D设计、AI视频、AI语音等AI网站导航指引。",
+          "icon": "/assets/favicon_1758603736122.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
