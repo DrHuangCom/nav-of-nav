@@ -160,6 +160,14 @@
           "description": "收录数百款工具，提供各类AI工具，助力卖家轻松找到合适工具进行创作和智能对话.",
           "icon": "/assets/favicon_1758595699201.png",
           "enabled": true
+        },
+        {
+          "id": "site_1758596038247_fndnkodh5",
+          "title": "Ai-bot AI工具集",
+          "href": "https://ai-bot.cn/",
+          "description": "导航包含500+国内外AI工具，涵盖AI写作、图像生成、视频制作等领域",
+          "icon": "/assets/favicon_1758595954010.png",
+          "enabled": true
         }
       ],
       "subCategories": []
