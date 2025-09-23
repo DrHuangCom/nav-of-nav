@@ -100,6 +100,14 @@
           "description": "教育网, 在线数学手册计算器软件，电化学软件, 电化学反应模拟, 虚拟电化学仪器,虚拟电化学工作站，电分析化学,电化学虚拟实验室",
           "icon": "/assets/img_1758597021380.png",
           "enabled": true
+        },
+        {
+          "id": "site_1758606813443_oazr8alm5",
+          "title": "即梦AI - 即刻造梦",
+          "href": "https://jimeng.jianying.com/",
+          "description": "即梦AI一站式智能创作平台，即刻造梦。提供AI绘画和AIGC视频创作体验，拥有激发无限创作灵感的社区。让即梦AI开启您的智能创作之旅，探索梦境实现的无限可能！",
+          "icon": "/assets/favicon_1758606803462.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],
