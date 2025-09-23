@@ -684,6 +684,14 @@
               "description": "App Screenshot Generator for App Store&Google Play,Create panoramic screenshots for iOS and Android apps. No account needed.",
               "icon": "/assets/img_1735258064656.png",
               "enabled": true
+            },
+            {
+              "id": "site_1758596144855_lbamhftvd",
+              "title": "试试吧 - 领先的一站式在线工具平台",
+              "href": "https://try8.cn/",
+              "description": "试试吧采用渐进式自研架构解决方案，致力于打造领先的一站式在线工具平台，旗下在线工具主要分类为：人工智能、加密解密、编码解码、颜色空间、格式美化、图片处理、音频视频、时间管理和单位转换等。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=try8.cn",
+              "enabled": true
             }
           ],
           "enabled": true
