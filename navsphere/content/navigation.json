@@ -108,6 +108,14 @@
           "description": "教育网, 在线数学手册计算器软件，电化学软件, 电化学反应模拟, 虚拟电化学仪器,虚拟电化学工作站，电分析化学,电化学虚拟实验室",
           "icon": "/assets/img_1758593710415.png",
           "enabled": true
+        },
+        {
+          "id": "site_1758595902846_fzmglsmv0",
+          "title": "Best AI Tools Directory &amp; AI Tools List - Toolify",
+          "href": "https://www.toolify.ai/",
+          "description": "Toolify is the largest AI tools directory &amp; GPT Store Apps. Over 26700+ AI Websites and AI Tools. AI Tools list and GPTs Store Apps list are auto updated by ChatGPT.",
+          "icon": "/assets/favicon_1758595863079.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],
