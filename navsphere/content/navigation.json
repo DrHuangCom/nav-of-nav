@@ -516,6 +516,14 @@
               "description": "Cheap domain name registration and affordable website hosting. We offer free add-ons &amp; benefits that our competitors like to charge for. 24/7 Top-rated support!",
               "icon": "/assets/favicon_1758597214404.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1758667311900_1vmzkjtfl",
+              "title": "Free Domain",
+              "href": "https://domain.digitalplat.org",
+              "description": "访问 domain.digitalplat.org",
+              "icon": "/assets/favicon_1758667207299.png",
+              "enabled": true
             }
           ]
         }
