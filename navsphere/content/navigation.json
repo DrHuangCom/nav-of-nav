@@ -62,14 +62,6 @@
           "icon": "/assets/favicon_1754218571142.svg"
         },
         {
-          "id": "site_1758593709560_gj72w6w20",
-          "title": "黄博士网: 在线数学手册计算器软件",
-          "href": "http://drhuang.com/chinese/science/mathematics/software/",
-          "description": "教育网, 在线数学手册计算器软件，电化学软件, 电化学反应模拟, 虚拟电化学仪器,虚拟电化学工作站，电分析化学,电化学虚拟实验室",
-          "icon": "/assets/img_1758593710415.png",
-          "enabled": true
-        },
-        {
           "id": "site_1758597025895_om49ye7x3",
           "title": "黄博士网: 教育网, AI数学手册计算器软件，电化学虚拟实验室，虚拟电化学工作站，电化学软件",
           "href": "http://drhuang.com/chinese/",
@@ -433,6 +425,14 @@
               "href": "https://excalidraw.com/",
               "description": "Excalidraw是免费的在线协作画图工具。\n\n手写风格的草图非常好看；\n漂亮的图库。",
               "icon": "/assets/img_1736922499401.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1758593709560_gj72w6w20",
+              "title": "黄博士网: 在线数学手册计算器软件",
+              "href": "http://drhuang.com/chinese/science/mathematics/software/",
+              "description": "教育网, 在线数学手册计算器软件，电化学软件, 电化学反应模拟, 虚拟电化学仪器,虚拟电化学工作站，电分析化学,电化学虚拟实验室",
+              "icon": "/assets/img_1758593710415.png",
               "enabled": true
             }
           ]
