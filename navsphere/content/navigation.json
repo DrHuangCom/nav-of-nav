@@ -92,6 +92,14 @@
           "description": "Grok is a free AI assistant designed by xAI to maximize truth and objectivity. Grok offers real-time search, image generation, trend analysis, and X.ai.",
           "icon": "/assets/favicon_1758666565317.png",
           "enabled": true
+        },
+        {
+          "id": "site_1758843275784_2er3hhxqa",
+          "title": "Chatgpt",
+          "href": "https://chatgpt.com",
+          "description": "访问 chatgpt.com by OpenAI",
+          "icon": "/assets/favicon_1758843193204.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
