@@ -240,6 +240,14 @@
               "description": "一个人工智能助手，旨在为您提供信息、解答问题和帮助您完成各种任务。",
               "icon": "/assets/img_1739871936809.png",
               "enabled": true
+            },
+            {
+              "id": "site_1758843162794_2i5he3uhd",
+              "title": "Welcome | xAI",
+              "href": "https://x.ai",
+              "description": "xAI is an AI company with the mission of advancing scientific discovery and gaining a deeper understanding of our universe.",
+              "icon": "/assets/favicon_1758843143330.ico",
+              "enabled": true
             }
           ]
         },
