@@ -401,6 +401,14 @@
               "description": "Google分析（Google Analytics）是一个由Google所提供的网站流量统计服务。",
               "icon": "/assets/images/logos/analytics.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1758864743229_w6netc5yn",
+              "title": "GitHub · Build and ship software on a single, collaborative platform · GitHub",
+              "href": "https://github.com/",
+              "description": "Join the world&#39;s most widely adopted, AI-powered developer platform where millions of developers, businesses, and the largest open source community build software that advances humanity.",
+              "icon": "/assets/favicon_1758864723425.png",
+              "enabled": true
             }
           ]
         },
