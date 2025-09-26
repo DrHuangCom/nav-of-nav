@@ -395,14 +395,6 @@
               "enabled": true
             },
             {
-              "id": "1_4",
-              "title": "Google AdSense",
-              "href": "https://www.google.com/adsense/",
-              "description": "Google AdSense广告服务。",
-              "icon": "/assets/images/logos/gads.ico",
-              "enabled": true
-            },
-            {
               "id": "1_1",
               "title": "Google Analytics",
               "href": "https://analytics.google.com/",
@@ -599,6 +591,14 @@
               "href": "https://www.reddit.com/",
               "description": "Reddit is where millions of people gather for conversations about the things they care about, in over 100,000 subreddit communities.",
               "icon": "/assets/favicon_1755168414977.png",
+              "enabled": true
+            },
+            {
+              "id": "1_4",
+              "title": "Google AdSense",
+              "href": "https://www.google.com/adsense/",
+              "description": "Google AdSense广告服务。",
+              "icon": "/assets/images/logos/gads.ico",
               "enabled": true
             }
           ]
