@@ -772,6 +772,14 @@
               "description": "AI Computer Algebra System for symbolic computation of fractional calculus math software,\r\nderivative calculator, integral calculator, math handbook calculator, fractional calculus calculator",
               "icon": "/assets/img_1758593710415.png",
               "enabled": true
+            },
+            {
+              "id": "site_1758862925714_7cloapajx",
+              "title": "在线工具箱 - 程序员的工具集",
+              "href": "https://www.leti.ltd/",
+              "description": "在线工具箱 - 提供各种实用的在线工具",
+              "icon": "/assets/favicon_1758862907227.svg",
+              "enabled": true
             }
           ],
           "enabled": true
