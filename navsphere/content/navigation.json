@@ -260,6 +260,14 @@
           ]
         },
         {
+          "id": "4dad1702-1935-4f17-8861-4fba9efca09d",
+          "title": "AI video 视频",
+          "icon": "Video",
+          "description": "AI video 视频",
+          "enabled": true,
+          "items": []
+        },
+        {
           "id": "cbb3e33d-408b-41ba-9e9a-e0444303e3ff",
           "title": "生产力工具",
           "icon": "Book",
@@ -300,14 +308,6 @@
               "enabled": true
             }
           ]
-        },
-        {
-          "id": "4dad1702-1935-4f17-8861-4fba9efca09d",
-          "title": "AI video 视频",
-          "icon": "Video",
-          "description": "AI video 视频",
-          "enabled": true,
-          "items": []
         }
       ],
       "description": "",
