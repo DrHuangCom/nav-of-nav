@@ -76,6 +76,14 @@
           "description": "访问 chatgpt.com by OpenAI",
           "icon": "/assets/favicon_1758843193204.png",
           "enabled": true
+        },
+        {
+          "id": "1_6",
+          "title": "Leonardo.AI",
+          "href": "https://app.leonardo.ai/",
+          "description": "Leonardo.AI是一个人工智能绘图社区和工具。它基于Stable Diffusion人工智能模型,深度集成了其各种插件,提供强大的图片生成和创作功能。",
+          "icon": "/assets/images/logos/leonardo.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],
@@ -256,14 +264,6 @@
               "href": "https://wan.video/",
               "description": "Wan is an AI creative platform. It aims to lower the barrier to creative work using artificial intelligence, offering features like text-to-image, image-to-image, text-to-video, image-to-video, and image editing.",
               "icon": "/assets/favicon_1759013346991.ico",
-              "enabled": true
-            },
-            {
-              "id": "1_6",
-              "title": "Leonardo.AI",
-              "href": "https://app.leonardo.ai/",
-              "description": "Leonardo.AI是一个人工智能绘图社区和工具。它基于Stable Diffusion人工智能模型,深度集成了其各种插件,提供强大的图片生成和创作功能。",
-              "icon": "/assets/images/logos/leonardo.ico",
               "enabled": true
             },
             {
