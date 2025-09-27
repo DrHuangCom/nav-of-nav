@@ -300,6 +300,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "4dad1702-1935-4f17-8861-4fba9efca09d",
+          "title": "AI video 视频",
+          "icon": "Video",
+          "description": "AI video 视频",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "",
