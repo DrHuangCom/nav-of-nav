@@ -265,6 +265,14 @@
               "description": "即梦AI一站式智能创作平台，即刻造梦。提供AI绘画和AIGC视频创作体验，拥有激发无限创作灵感的社区。让即梦AI开启您的智能创作之旅，探索梦境实现的无限可能！",
               "icon": "/assets/favicon_1758606803462.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1759013354037_mp05p1xvb",
+              "title": "Wan AI: Leading AI Video Generation Model",
+              "href": "https://wan.video/",
+              "description": "Wan is an AI creative platform. It aims to lower the barrier to creative work using artificial intelligence, offering features like text-to-image, image-to-image, text-to-video, image-to-video, and image editing.",
+              "icon": "/assets/favicon_1759013346991.ico",
+              "enabled": true
             }
           ]
         },
