@@ -278,7 +278,7 @@
               "id": "site_1759014636541_is5d8hsoc",
               "title": "Openai Sora",
               "href": "https://openai.com/sora/",
-              "description": "访问 openai.com/sora",
+              "description": "可以通过一句话的信息生成一分钟的视频",
               "icon": "/assets/favicon_1759014559801.png",
               "enabled": true
             }
