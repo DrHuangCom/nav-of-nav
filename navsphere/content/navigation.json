@@ -297,6 +297,14 @@
               "description": "Raphael AI is a unlimited free AI image generator that creates stunning images from text online in just a few seconds. Fast, Free, No Sign-up, Unlimited.",
               "icon": "/assets/favicon_1759063439922.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1759063880035_d3g8mdo95",
+              "title": "Adobe Firefly - Free Generative AI for creatives",
+              "href": "https://www.adobe.com/products/firefly.html",
+              "description": "Create stunning images, audio, and now video, all in one place, with Adobe Firefly. Go from ideation to production seamlessly with commercially safe Firefly models.",
+              "icon": "/assets/favicon_1759063871554.png",
+              "enabled": true
             }
           ]
         },
