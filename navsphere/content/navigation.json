@@ -289,6 +289,14 @@
               "description": "Beautiful Screenshots and Mockups\nCusomizable, eye-catching presentation for any content",
               "icon": "/assets/img_1741747241014.png",
               "enabled": true
+            },
+            {
+              "id": "site_1759063449739_f8mn9eojg",
+              "title": "Raphael AI - AI Image Generator (Free, Unlimited, No sign-up)",
+              "href": "https://raphaelai.org/",
+              "description": "Raphael AI is a unlimited free AI image generator that creates stunning images from text online in just a few seconds. Fast, Free, No Sign-up, Unlimited.",
+              "icon": "/assets/favicon_1759063439922.ico",
+              "enabled": true
             }
           ]
         },
