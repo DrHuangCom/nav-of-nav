@@ -192,6 +192,14 @@
           "description": "收录超3000款AI工具,横跨AI写作、绘画、视频制作、音频处理、办公、学习等15大类别。",
           "icon": "/assets/favicon_1759037555735.png",
           "enabled": true
+        },
+        {
+          "id": "site_1759047718735_e2y08bfdp",
+          "title": "Ai-to AI工具阁",
+          "href": "https://ai-to",
+          "description": "“AI工具阁” 是一个专注于收集国内外各种实用AI工具的导航网站，致力于为大家提供便捷高效的服务，让用户快速找到自己需要的AI工具。\n",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=ai-to",
+          "enabled": true
         }
       ],
       "subCategories": []
