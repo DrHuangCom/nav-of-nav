@@ -210,6 +210,14 @@
           "description": "中文 AI导航",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "9304941b-e840-4f0f-9ba4-99afc6e9ee22",
+          "title": "English",
+          "icon": "FolderOpen",
+          "description": "directory",
+          "enabled": true,
+          "items": []
         }
       ]
     },
