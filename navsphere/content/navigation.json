@@ -268,6 +268,14 @@
           ]
         },
         {
+          "id": "3088d028-de36-4e07-80ca-2403eacf2f65",
+          "title": "AI image 图像",
+          "icon": "Image",
+          "description": "图像生成与处理",
+          "enabled": true,
+          "items": []
+        },
+        {
           "id": "4dad1702-1935-4f17-8861-4fba9efca09d",
           "title": "AI video 视频",
           "icon": "Video",
@@ -357,14 +365,6 @@
               "enabled": true
             }
           ]
-        },
-        {
-          "id": "3088d028-de36-4e07-80ca-2403eacf2f65",
-          "title": "AI image 图像",
-          "icon": "Image",
-          "description": "图像生成与处理",
-          "enabled": true,
-          "items": []
         }
       ],
       "description": "",
