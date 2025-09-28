@@ -281,6 +281,14 @@
               "description": "免费的在线图像生成平台 No signup required, unlimited generations. Vheer is not just a free online image generator, but all-in-one AI toolkit that allows you to create stunning images from text or photos.",
               "icon": "/assets/favicon_1759059003996.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1759059798371_qv22evaaq",
+              "title": "Sora",
+              "href": "https://sora.openai.com",
+              "description": "访问 sora.openai.com",
+              "icon": "/assets/favicon_1759059765649.png",
+              "enabled": true
             }
           ]
         },
