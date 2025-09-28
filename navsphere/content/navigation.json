@@ -556,6 +556,14 @@
               "description": "Qoder is an agentic coding platform designed for real software development. It seamlessly integrates enhanced context engineering with intelligent agents to gain a comprehensive understanding of your codebase and systematically tackles software development tasks. Supports world",
               "icon": "/assets/favicon_1759040498458.svg",
               "enabled": true
+            },
+            {
+              "id": "site_1759040623132_e9s5bn2ad",
+              "title": "Qoder - The Agentic Coding Platform",
+              "href": "https://qoder.com/",
+              "description": "Qoder is an agentic coding platform designed for real software development. It seamlessly integrates enhanced context engineering with intelligent agents to gain a comprehensive understanding of your codebase and systematically tackles software development tasks. Supports world",
+              "icon": "/assets/favicon_1759040616698.svg",
+              "enabled": true
             }
           ]
         },
