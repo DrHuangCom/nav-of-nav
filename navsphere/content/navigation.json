@@ -202,7 +202,16 @@
           "enabled": true
         }
       ],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "5366e7ed-09f6-484f-8b0f-4fd02f7fd758",
+          "title": "中文",
+          "icon": "FolderOpen",
+          "description": "中文 AI导航",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "9",
