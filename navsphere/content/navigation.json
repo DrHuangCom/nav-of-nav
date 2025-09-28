@@ -362,6 +362,14 @@
               "description": "提供强大的视频、图像生成和编辑工具，旨在简化内容创作流程，提升工作效率。",
               "icon": "/assets/favicon_1759063044974.png",
               "enabled": true
+            },
+            {
+              "id": "site_1759064867699_6zqtmvfoy",
+              "title": "InfiniteTalk AI | Sparse-Frame, Audio-Driven Video Dubbing",
+              "href": "https://www.infinitetalk.net/",
+              "description": "InfiniteTalk AI: audio-driven full-body video dubbing that preserves identity and camera motion, with sparse-frame control and long-sequence image-to-video.",
+              "icon": "/assets/favicon_1759064862494.ico",
+              "enabled": true
             }
           ]
         },
