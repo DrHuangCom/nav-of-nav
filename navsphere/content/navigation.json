@@ -98,14 +98,6 @@
           "enabled": true
         },
         {
-          "id": "site_1758595657655_rt1ob6prz",
-          "title": "AI导航-帮助您了解前沿AI工具并提升工作效率",
-          "href": "https://www.ai-dh.com/",
-          "description": "AIDH选及整理最优秀的AI绘画,AI聊天,AI提示词,AI办公,AIGC,文生图等网站,让AI融入每个人的工作与生活,收录网站包括AI生成图片、AI生成视频、AI生成文案、文生图、AI绘画、AI办公、AI聊天等等。拥有智能推荐、强大的站内搜索、账号收藏云同步、自定义站点、只为前沿生产力而生。用AI就上AIDH！",
-          "icon": "/assets/favicon_1758595650828.png",
-          "enabled": true
-        },
-        {
           "id": "site_1758595765798_aly6g69ms",
           "title": "Amz123",
           "href": "https://www.amz123.com/ai",
@@ -208,6 +200,14 @@
               "href": "https://www.ainav.cn/",
               "description": "汇聚互联网中最全的AI人工智能工具资源，分类整理AI绘画、对话聊天、音频等工具，方便用户快速找到适合的AI工具.",
               "icon": "/assets/favicon_1758595308713.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1758595657655_rt1ob6prz",
+              "title": "AI导航-帮助您了解前沿AI工具并提升工作效率",
+              "href": "https://www.ai-dh.com/",
+              "description": "AIDH选及整理最优秀的AI绘画,AI聊天,AI提示词,AI办公,AIGC,文生图等网站,让AI融入每个人的工作与生活,收录网站包括AI生成图片、AI生成视频、AI生成文案、文生图、AI绘画、AI办公、AI聊天等等。拥有智能推荐、强大的站内搜索、账号收藏云同步、自定义站点、只为前沿生产力而生。用AI就上AIDH！",
+              "icon": "/assets/favicon_1758595650828.png",
               "enabled": true
             }
           ]
