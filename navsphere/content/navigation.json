@@ -722,6 +722,14 @@
               "description": "Google AdSense广告服务。",
               "icon": "/assets/images/logos/gads.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1759064447228_6ojp1e72a",
+              "title": "Stableaudio",
+              "href": "https://stableaudio.com/",
+              "description": "Text-to-audio, 访问 stableaudio.com",
+              "icon": "/assets/favicon_1759064356925.png",
+              "enabled": true
             }
           ]
         },
