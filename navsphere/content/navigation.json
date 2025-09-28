@@ -378,6 +378,14 @@
               "description": "InfiniteTalk AI: audio-driven full-body video dubbing that preserves identity and camera motion, with sparse-frame control and long-sequence image-to-video.",
               "icon": "/assets/favicon_1759064862494.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1759068295476_hahld6fh1",
+              "title": "白日梦AI-领先的AI视频创作类AIGC创作平台",
+              "href": "https://aibrm.com",
+              "description": "白日梦AI是一款领先的文生视频类AIGC创作平台，专注于AI视频内容生成，提供AI生成视频教程、AI文生视频、AI动态画面、AI形象生成、人物/场景一致性等创作技巧及成功案例，助您快速上手并打造专业级视频内容。",
+              "icon": "/assets/favicon_1759068278562.png",
+              "enabled": true
             }
           ]
         },
