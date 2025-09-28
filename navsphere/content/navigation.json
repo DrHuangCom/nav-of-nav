@@ -357,6 +357,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "3088d028-de36-4e07-80ca-2403eacf2f65",
+          "title": "AI image 图像",
+          "icon": "Image",
+          "description": "图像生成与处理",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "",
