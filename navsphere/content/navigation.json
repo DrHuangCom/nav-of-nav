@@ -338,6 +338,14 @@
               "description": "Veo 3 - AI Video Generator with perfect audio synchronization. Create stunning videos with automated sound effects, dialogue, and ambient noise generation.",
               "icon": "/assets/favicon_1759042583521.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1759063148375_9832fq8qm",
+              "title": "Runwayml",
+              "href": "https://runwayml.com/",
+              "description": "提供强大的视频、图像生成和编辑工具，旨在简化内容创作流程，提升工作效率。",
+              "icon": "/assets/favicon_1759063044974.png",
+              "enabled": true
             }
           ]
         },
