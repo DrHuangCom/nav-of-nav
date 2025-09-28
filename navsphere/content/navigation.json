@@ -397,63 +397,6 @@
           ]
         },
         {
-          "id": "4da4ad49-4cfe-4e78-992b-af84a1d6c0ad",
-          "title": "托管平台",
-          "icon": "Book",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1735612561958",
-              "title": "Cloudflare",
-              "href": "https://dash.cloudflare.com/",
-              "description": "Cloudflare以向客户提供基于反向代理的内容分发网络及分布式域名解析服务为主要业务。",
-              "icon": "/assets/images/logos/cloudflar.ico",
-              "enabled": true
-            },
-            {
-              "id": "1735612588184",
-              "title": "Vercel",
-              "href": "https://vercel.com/",
-              "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
-              "icon": "/assets/images/logos/vercel.png",
-              "enabled": true
-            },
-            {
-              "id": "1735612629450",
-              "title": "netlify",
-              "href": "https://www.netlify.com/",
-              "description": "Netlify is the essential platform for the delivery of exceptional and dynamic web experiences, without limitations.",
-              "icon": "/assets/img_1735612745862.png",
-              "enabled": true
-            },
-            {
-              "id": "1755225929754",
-              "title": "Tencent -  EdgeOne亚洲最佳CDN、边缘和安全解决方案",
-              "href": "https://edgeone.ai/zh",
-              "description": "Tencent EdgeOne，亚洲领先的CDN，利用腾讯先进的边缘节点提供卓越的边缘解决方案，用于加速、安全、无服务器和视频。",
-              "icon": "/assets/favicon_1755225933031.ico",
-              "enabled": true
-            },
-            {
-              "id": "1_1",
-              "title": "Google Analytics",
-              "href": "https://analytics.google.com/",
-              "description": "Google分析（Google Analytics）是一个由Google所提供的网站流量统计服务。",
-              "icon": "/assets/images/logos/analytics.ico",
-              "enabled": true
-            },
-            {
-              "id": "site_1758864743229_w6netc5yn",
-              "title": "GitHub · Build and ship software on a single, collaborative platform · GitHub",
-              "href": "https://github.com/",
-              "description": "Join the world&#39;s most widely adopted, AI-powered developer platform where millions of developers, businesses, and the largest open source community build software that advances humanity.",
-              "icon": "/assets/favicon_1758864723425.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
           "id": "2040df1a-cbcd-40fa-a85c-151b5735fbd2",
           "title": "画图工具",
           "icon": "Book",
@@ -555,6 +498,63 @@
               "href": "https://qoder.com/",
               "description": "Qoder is an agentic coding platform designed for real software development. It seamlessly integrates enhanced context engineering with intelligent agents to gain a comprehensive understanding of your codebase and systematically tackles software development tasks. Supports world",
               "icon": "/assets/favicon_1759040498458.svg",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "4da4ad49-4cfe-4e78-992b-af84a1d6c0ad",
+          "title": "托管平台",
+          "icon": "Book",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1735612561958",
+              "title": "Cloudflare",
+              "href": "https://dash.cloudflare.com/",
+              "description": "Cloudflare以向客户提供基于反向代理的内容分发网络及分布式域名解析服务为主要业务。",
+              "icon": "/assets/images/logos/cloudflar.ico",
+              "enabled": true
+            },
+            {
+              "id": "1735612588184",
+              "title": "Vercel",
+              "href": "https://vercel.com/",
+              "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
+              "icon": "/assets/images/logos/vercel.png",
+              "enabled": true
+            },
+            {
+              "id": "1735612629450",
+              "title": "netlify",
+              "href": "https://www.netlify.com/",
+              "description": "Netlify is the essential platform for the delivery of exceptional and dynamic web experiences, without limitations.",
+              "icon": "/assets/img_1735612745862.png",
+              "enabled": true
+            },
+            {
+              "id": "1755225929754",
+              "title": "Tencent -  EdgeOne亚洲最佳CDN、边缘和安全解决方案",
+              "href": "https://edgeone.ai/zh",
+              "description": "Tencent EdgeOne，亚洲领先的CDN，利用腾讯先进的边缘节点提供卓越的边缘解决方案，用于加速、安全、无服务器和视频。",
+              "icon": "/assets/favicon_1755225933031.ico",
+              "enabled": true
+            },
+            {
+              "id": "1_1",
+              "title": "Google Analytics",
+              "href": "https://analytics.google.com/",
+              "description": "Google分析（Google Analytics）是一个由Google所提供的网站流量统计服务。",
+              "icon": "/assets/images/logos/analytics.ico",
+              "enabled": true
+            },
+            {
+              "id": "site_1758864743229_w6netc5yn",
+              "title": "GitHub · Build and ship software on a single, collaborative platform · GitHub",
+              "href": "https://github.com/",
+              "description": "Join the world&#39;s most widely adopted, AI-powered developer platform where millions of developers, businesses, and the largest open source community build software that advances humanity.",
+              "icon": "/assets/favicon_1758864723425.png",
               "enabled": true
             }
           ]
