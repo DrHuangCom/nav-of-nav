@@ -273,7 +273,16 @@
           "icon": "Image",
           "description": "图像生成与处理",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1759059311874_qbuxqvq1u",
+              "title": "Vheer | 100% free image generator online. [Unlimited, No Signup]",
+              "href": "https://vheer.com/",
+              "description": "免费的在线图像生成平台 No signup required, unlimited generations. Vheer is not just a free online image generator, but all-in-one AI toolkit that allows you to create stunning images from text or photos.",
+              "icon": "/assets/favicon_1759059003996.ico",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "4dad1702-1935-4f17-8861-4fba9efca09d",
@@ -680,14 +689,6 @@
               "href": "https://www.google.com/adsense/",
               "description": "Google AdSense广告服务。",
               "icon": "/assets/images/logos/gads.ico",
-              "enabled": true
-            },
-            {
-              "id": "site_1759059311874_qbuxqvq1u",
-              "title": "Vheer | 100% free image generator online. [Unlimited, No Signup]",
-              "href": "https://vheer.com/",
-              "description": "免费的在线图像生成平台 No signup required, unlimited generations. Vheer is not just a free online image generator, but all-in-one AI toolkit that allows you to create stunning images from text or photos.",
-              "icon": "/assets/favicon_1759059003996.ico",
               "enabled": true
             }
           ]
