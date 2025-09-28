@@ -297,6 +297,14 @@
               "description": "可以通过一句话的信息生成一分钟的视频",
               "icon": "/assets/favicon_1759014559801.png",
               "enabled": true
+            },
+            {
+              "id": "site_1759042605333_dpmj4y3t8",
+              "title": "Veo 3 AI Vdeo Generator with Realistic Sound",
+              "href": "https://www.vidveo3.com/",
+              "description": "Veo 3 - AI Video Generator with perfect audio synchronization. Create stunning videos with automated sound effects, dialogue, and ambient noise generation.",
+              "icon": "/assets/favicon_1759042583521.ico",
+              "enabled": true
             }
           ]
         },
