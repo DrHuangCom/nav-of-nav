@@ -114,14 +114,6 @@
           "enabled": true
         },
         {
-          "id": "site_1758608022330_p1cs7n4e2",
-          "title": "AIHub工具导航 - 发现全网最新热门AI工具和网站",
-          "href": "https://www.aihub.cn/",
-          "description": "AIHub精选国内外999+优质AI工具、资源和资讯，包括AI绘画工具、AI写作工具、AI聊天工具、AI音视频工具、AI办公工具、AI游戏制作工具、AI营销工具等AI工具大全。我们希望通过努力，让更多个人和企业，了解人工智能，用好人工智能，高效工作，快乐生活。",
-          "icon": "/assets/favicon_1758608015674.png",
-          "enabled": true
-        },
-        {
           "id": "site_1759037672951_fv3ol6tdr",
           "title": "Aigc导航",
           "href": "https://www.aigc.cn/",
@@ -208,6 +200,14 @@
               "href": "https://www.toolify.ai/zh/",
               "description": "Toolify 是最大的人工智能工具目录和 GPTs 商店应用程序。超过 26800+ 个人工智能网站和人工智能工具。人工智能工具列表和 GPT 商店应用程序列表由 ChatGPT 自动更新。",
               "icon": "/assets/favicon_1759104092973.ico",
+              "enabled": true
+            },
+            {
+              "id": "site_1758608022330_p1cs7n4e2",
+              "title": "AIHub工具导航 - 发现全网最新热门AI工具和网站",
+              "href": "https://www.aihub.cn/",
+              "description": "AIHub精选国内外999+优质AI工具、资源和资讯，包括AI绘画工具、AI写作工具、AI聊天工具、AI音视频工具、AI办公工具、AI游戏制作工具、AI营销工具等AI工具大全。我们希望通过努力，让更多个人和企业，了解人工智能，用好人工智能，高效工作，快乐生活。",
+              "icon": "/assets/favicon_1758608015674.png",
               "enabled": true
             }
           ]
