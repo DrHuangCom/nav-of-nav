@@ -234,6 +234,14 @@
               "description": "访问 aidiretorylist.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=aidiretorylist.com",
               "enabled": true
+            },
+            {
+              "id": "site_1759104567560_8s7rnyzwr",
+              "title": "Aidirector",
+              "href": "https://aidirector.es",
+              "description": "访问 aidirector.es",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=aidirector.es",
+              "enabled": true
             }
           ]
         }
