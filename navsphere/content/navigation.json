@@ -114,14 +114,6 @@
           "enabled": true
         },
         {
-          "id": "site_1759037672951_fv3ol6tdr",
-          "title": "Aigc导航",
-          "href": "https://www.aigc.cn/",
-          "description": "收录超3000款AI工具,横跨AI写作、绘画、视频制作、音频处理、办公、学习等15大类别。",
-          "icon": "/assets/favicon_1759037555735.png",
-          "enabled": true
-        },
-        {
           "id": "site_1759047718735_e2y08bfdp",
           "title": "AI工具阁 | 收录国内外AI工具网站 - AI工具阁",
           "href": "https://ai-to.cn",
@@ -208,6 +200,14 @@
               "href": "https://www.aihub.cn/",
               "description": "AIHub精选国内外999+优质AI工具、资源和资讯，包括AI绘画工具、AI写作工具、AI聊天工具、AI音视频工具、AI办公工具、AI游戏制作工具、AI营销工具等AI工具大全。我们希望通过努力，让更多个人和企业，了解人工智能，用好人工智能，高效工作，快乐生活。",
               "icon": "/assets/favicon_1758608015674.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1759037672951_fv3ol6tdr",
+              "title": "Aigc导航",
+              "href": "https://www.aigc.cn/",
+              "description": "收录超3000款AI工具,横跨AI写作、绘画、视频制作、音频处理、办公、学习等15大类别。",
+              "icon": "/assets/favicon_1759037555735.png",
               "enabled": true
             }
           ]
