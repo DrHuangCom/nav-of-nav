@@ -201,14 +201,6 @@
               "description": "收录超3000款AI工具,横跨AI写作、绘画、视频制作、音频处理、办公、学习等15大类别。",
               "icon": "/assets/favicon_1759037555735.png",
               "enabled": true
-            },
-            {
-              "id": "site_1759065188883_0j8aj6phz",
-              "title": "Tinywow",
-              "href": "https://tinywow.com/",
-              "description": "free 访问 tinywow.com",
-              "icon": "/assets/favicon_1759065163405.png",
-              "enabled": true
             }
           ]
         },
@@ -257,6 +249,14 @@
               "href": "https://navifyai.com",
               "description": "Find and compare the most powerful AI tools for chatbots, image generation, writing, video, audio, and productivity. Get detailed reviews and pricing information.",
               "icon": "/assets/favicon_1759105054107.ico",
+              "enabled": true
+            },
+            {
+              "id": "site_1759065188883_0j8aj6phz",
+              "title": "Tinywow directory",
+              "href": "https://tinywow.com/",
+              "description": "free 访问 tinywow.com",
+              "icon": "/assets/favicon_1759065163405.png",
               "enabled": true
             }
           ]
