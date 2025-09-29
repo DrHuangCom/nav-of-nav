@@ -114,14 +114,6 @@
           "enabled": true
         },
         {
-          "id": "site_1758603652705_7ozx155xf",
-          "title": "Aidh123 AI导航123",
-          "href": "https://aidh123.com/",
-          "description": "AI导航123 | AI导航网站,AI导航官网,AI工具导航,AI工具箱,500+ ...\n",
-          "icon": "/assets/favicon_1758603573811.png",
-          "enabled": true
-        },
-        {
           "id": "site_1758603746881_5283yp6iq",
           "title": "优设AI导航 - 国内专业AI工具导航网站 - 热门AI工具每周更新",
           "href": "https://hao.uisdc.com/ai/",
@@ -208,6 +200,14 @@
               "href": "https://ai-bot.cn/",
               "description": "导航包含500+国内外AI工具，涵盖AI写作、图像生成、视频制作等领域",
               "icon": "/assets/favicon_1758595954010.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1758603652705_7ozx155xf",
+              "title": "Aidh123 AI导航123",
+              "href": "https://aidh123.com/",
+              "description": "AI导航123 | AI导航网站,AI导航官网,AI工具导航,AI工具箱,500+ ...\n",
+              "icon": "/assets/favicon_1758603573811.png",
               "enabled": true
             }
           ]
