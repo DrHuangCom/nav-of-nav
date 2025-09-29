@@ -218,7 +218,16 @@
           "icon": "FolderOpen",
           "description": "directory",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1759104311855_zxv5cft8z",
+              "title": "Best AI Tools Directory &amp; AI Tools List - Toolify",
+              "href": "https://toolify.ai",
+              "description": "Toolify is the largest AI tools directory &amp; GPT Store Apps. Over 26800+ AI Websites and AI Tools. AI Tools list and GPTs Store Apps list are auto updated by ChatGPT.",
+              "icon": "/assets/favicon_1759104291216.ico",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
