@@ -242,6 +242,14 @@
               "description": "访问 aidirector.es",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=aidirector.es",
               "enabled": true
+            },
+            {
+              "id": "site_1759104619792_zmnsqx4tj",
+              "title": "Top AI Tools List - OpenTools",
+              "href": "https://opentools.ai",
+              "description": "Discover and compare over 10,000 AI tools, curated and ranked by our community of over 50,000 users.",
+              "icon": "/assets/favicon_1759104599108.ico",
+              "enabled": true
             }
           ]
         }
