@@ -130,14 +130,6 @@
           "enabled": true
         },
         {
-          "id": "site_1759016993672_03ge2ugca",
-          "title": "Faxianai 发现AI",
-          "href": "https://www.faxianai.com/",
-          "description": "整合全球超10000款优质AI产品,覆盖AI绘画、写作、聊天、音视频处理等多领域,满足多元需求 。",
-          "icon": "/assets/favicon_1759016819015.png",
-          "enabled": true
-        },
-        {
           "id": "site_1759037672951_fv3ol6tdr",
           "title": "Aigc导航",
           "href": "https://www.aigc.cn/",
@@ -208,6 +200,14 @@
               "href": "https://feizhuke.com/",
               "description": "非猪ai导航,最好的ai工具集合网站!让你秒变飞猪ai导航,是你人工智能工具箱和研究所,为你收集整理推荐国内外aigc软件服务,网址网站,包括文字写作,视觉,图片,视频,音频, ...\n",
               "icon": "/assets/favicon_1758607734808.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1759016993672_03ge2ugca",
+              "title": "Faxianai 发现AI",
+              "href": "https://www.faxianai.com/",
+              "description": "整合全球超10000款优质AI产品,覆盖AI绘画、写作、聊天、音视频处理等多领域,满足多元需求 。",
+              "icon": "/assets/favicon_1759016819015.png",
               "enabled": true
             }
           ]
