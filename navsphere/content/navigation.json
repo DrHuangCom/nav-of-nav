@@ -201,6 +201,14 @@
               "description": "收录超3000款AI工具,横跨AI写作、绘画、视频制作、音频处理、办公、学习等15大类别。",
               "icon": "/assets/favicon_1759037555735.png",
               "enabled": true
+            },
+            {
+              "id": "site_1759266163836_a8v5x4zfy",
+              "title": "发现、分享和收藏优质AI工具与资源 提交网站",
+              "href": "https://ai-navigation-sz5y.vercel.app/",
+              "description": "访问 ai-navigation-sz5y.vercel.app",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=ai-navigation-sz5y.vercel.app",
+              "enabled": true
             }
           ]
         },
