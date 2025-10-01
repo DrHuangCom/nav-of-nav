@@ -415,14 +415,6 @@
               "enabled": true
             },
             {
-              "id": "1_7",
-              "title": "Tensor.art",
-              "href": "https://tensor.art/",
-              "description": "Tensor.art是一个免费的在线图像生成和模型托管平台。",
-              "icon": "/assets/images/logos/tensorart.ico",
-              "enabled": true
-            },
-            {
               "id": "site_1759014636541_is5d8hsoc",
               "title": "Openai Sora",
               "href": "https://openai.com/sora/",
@@ -460,6 +452,14 @@
               "href": "https://aibrm.com",
               "description": "白日梦AI是一款领先的文生视频类AIGC创作平台，专注于AI视频内容生成，提供AI生成视频教程、AI文生视频、AI动态画面、AI形象生成、人物/场景一致性等创作技巧及成功案例，助您快速上手并打造专业级视频内容。",
               "icon": "/assets/favicon_1759068278562.png",
+              "enabled": true
+            },
+            {
+              "id": "1_7",
+              "title": "Tensor.art",
+              "href": "https://tensor.art/",
+              "description": "Tensor.art是一个免费的在线图像生成和模型托管平台。",
+              "icon": "/assets/images/logos/tensorart.ico",
               "enabled": true
             }
           ]
