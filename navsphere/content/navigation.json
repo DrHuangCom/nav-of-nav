@@ -259,6 +259,14 @@
               "description": "As a programming aided tool developed by Baidu based on the the large model ERNIE, Comate can provide many features such as automatic code generation, unit test generation, annotation generation, and intelligent answer. It supports hundreds of programming languages and multiple IDEs.",
               "icon": "/assets/favicon_1759297889075.ico",
               "enabled": true
+            },
+            {
+              "id": "1759299673581",
+              "title": "Code 智能编程助手",
+              "href": "https://codegeex.cn/",
+              "description": "访问 code",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=code",
+              "enabled": true
             }
           ]
         },
