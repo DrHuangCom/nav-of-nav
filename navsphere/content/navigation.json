@@ -137,6 +137,14 @@
           "description": "搜索",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "3509143b-5030-4151-a2e4-d68502424491",
+          "title": "智能体",
+          "icon": "User",
+          "description": "智能体",
+          "enabled": true,
+          "items": []
         }
       ]
     },
