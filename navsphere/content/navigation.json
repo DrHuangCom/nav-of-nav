@@ -349,6 +349,14 @@
               "description": "音乐创作工具，输入歌词即可生成完整专属歌曲",
               "icon": "/assets/favicon_1759299092028.png",
               "enabled": true
+            },
+            {
+              "id": "1759299479039",
+              "title": "天工AI音乐",
+              "href": "https://music.tiangong.cn/",
+              "description": "用天工AI音乐，人人都能写歌",
+              "icon": "/assets/favicon_1759299485426.ico",
+              "enabled": true
             }
           ]
         }
