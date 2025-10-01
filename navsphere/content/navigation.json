@@ -23,11 +23,11 @@
         },
         {
           "id": "item-1754218579319",
-          "enabled": true,
-          "title": "DeepSeek - 探索未至之境",
-          "href": "https://chat.deepseek.com/",
-          "description": "Chat with DeepSeek AI – your intelligent assistant for coding, content creation, file reading, and more. Upload documents, engage in long-context conversations, and get expert help in AI, natural language processing, and beyond. | 深度求索（DeepSeek）助力编程代码开发、创意写作、文件处理等任务，支持文件上传及长文本对话，随时为您提供高效的AI支持。",
-          "icon": "/assets/favicon_1754218571142.svg"
+          "title": "‎Google Gemini",
+          "href": "https://gemini.google.com/",
+          "description": "认识 Gemini：Google 旗下的 AI 助理。在写作、规划和开展头脑风暴等方面获得帮助。体验生成式 AI 的强大功能。",
+          "icon": "/assets/favicon_1759278810483.svg",
+          "enabled": true
         },
         {
           "id": "site_1758597025895_om49ye7x3",
