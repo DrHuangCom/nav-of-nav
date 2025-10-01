@@ -181,6 +181,55 @@
           ]
         },
         {
+          "id": "3509143b-5030-4151-a2e4-d68502424491",
+          "title": "智能体",
+          "icon": "User",
+          "description": "智能体",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1759295997373",
+              "title": "扣子",
+              "href": "https://www.coze.cn/",
+              "description": "扣子是新一代 AI 大模型智能体开发平台。整合了插件、长短期记忆、工作流、卡片等丰富能力，扣子能帮你低门槛、快速搭建个性化或具备商业价值的智能体，并发布到豆包、飞书等各个平台。",
+              "icon": "/assets/favicon_1759296000418.png",
+              "enabled": true
+            },
+            {
+              "id": "1759296257870",
+              "title": "MiniMax Agent: 简单指令, 无限可能",
+              "href": "https://agent.minimaxi.com/",
+              "description": "MiniMax Agent 是基于顶尖多模态大语言模型打造的智能AI伙伴，为你带来全方位的智能体验：精准搜索解答、一目了然的图像识别、沉浸式语音对话、专业创意写作、文档闪速解析，还有独家悬浮球功能让复杂任务变得轻而易举。支持MCP多智能体协作，让AI团队为你高效解决复杂问题。10倍速获取信息，10倍速解决问题，无论你是学生、职场人士、自由工作者还是创作者，Agent都能随叫随到，一触即用。AI写作、搜题、办公、翻译、编程、创作、文档总结，甚至是日常聊天、语言学习、面试准备，Agent都能胜任，成为你的全能智慧助手。",
+              "icon": "/assets/favicon_1759296260344.png",
+              "enabled": true
+            },
+            {
+              "id": "1759296507166",
+              "title": "Manus: 一出手，就拿手",
+              "href": "https://manus.im/",
+              "description": "Manus 是一个行动引擎，它超越了答案的范畴，可以执行任务、自动化工作流程，并扩展您的能力。",
+              "icon": "/assets/favicon_1759296509371.ico",
+              "enabled": true
+            },
+            {
+              "id": "1759296591696",
+              "title": "能干活的超级智能体 imini",
+              "href": "https://imini.com/zh/",
+              "description": "一个行动引擎，它超越了答案的范畴，可以执行任务、自动化工作流程，并扩展您的能力。",
+              "icon": "/assets/favicon_1759296593230.ico",
+              "enabled": true
+            },
+            {
+              "id": "1759297020422",
+              "title": "Agent TARS：最佳多模态 AI 智能体",
+              "href": "https://agenttars.ai/zh",
+              "description": "Agent TARS 是一个开源的多模态 AI 智能体，无缝集成浏览器操作、命令行和文件系统，提升工作流程自动化效率。体验先进的视觉解释和复杂推理，实现高效任务处理。",
+              "icon": "/assets/favicon_1759297021758.ico",
+              "enabled": true
+            }
+          ]
+        },
+        {
           "id": "7c78d9d5-4b5a-4393-be2d-8b513b95910d",
           "title": "编程",
           "icon": "Code",
@@ -269,55 +318,6 @@
           "description": "视频",
           "enabled": true,
           "items": []
-        },
-        {
-          "id": "3509143b-5030-4151-a2e4-d68502424491",
-          "title": "智能体",
-          "icon": "User",
-          "description": "智能体",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1759295997373",
-              "title": "扣子",
-              "href": "https://www.coze.cn/",
-              "description": "扣子是新一代 AI 大模型智能体开发平台。整合了插件、长短期记忆、工作流、卡片等丰富能力，扣子能帮你低门槛、快速搭建个性化或具备商业价值的智能体，并发布到豆包、飞书等各个平台。",
-              "icon": "/assets/favicon_1759296000418.png",
-              "enabled": true
-            },
-            {
-              "id": "1759296257870",
-              "title": "MiniMax Agent: 简单指令, 无限可能",
-              "href": "https://agent.minimaxi.com/",
-              "description": "MiniMax Agent 是基于顶尖多模态大语言模型打造的智能AI伙伴，为你带来全方位的智能体验：精准搜索解答、一目了然的图像识别、沉浸式语音对话、专业创意写作、文档闪速解析，还有独家悬浮球功能让复杂任务变得轻而易举。支持MCP多智能体协作，让AI团队为你高效解决复杂问题。10倍速获取信息，10倍速解决问题，无论你是学生、职场人士、自由工作者还是创作者，Agent都能随叫随到，一触即用。AI写作、搜题、办公、翻译、编程、创作、文档总结，甚至是日常聊天、语言学习、面试准备，Agent都能胜任，成为你的全能智慧助手。",
-              "icon": "/assets/favicon_1759296260344.png",
-              "enabled": true
-            },
-            {
-              "id": "1759296507166",
-              "title": "Manus: 一出手，就拿手",
-              "href": "https://manus.im/",
-              "description": "Manus 是一个行动引擎，它超越了答案的范畴，可以执行任务、自动化工作流程，并扩展您的能力。",
-              "icon": "/assets/favicon_1759296509371.ico",
-              "enabled": true
-            },
-            {
-              "id": "1759296591696",
-              "title": "能干活的超级智能体 imini",
-              "href": "https://imini.com/zh/",
-              "description": "一个行动引擎，它超越了答案的范畴，可以执行任务、自动化工作流程，并扩展您的能力。",
-              "icon": "/assets/favicon_1759296593230.ico",
-              "enabled": true
-            },
-            {
-              "id": "1759297020422",
-              "title": "Agent TARS：最佳多模态 AI 智能体",
-              "href": "https://agenttars.ai/zh",
-              "description": "Agent TARS 是一个开源的多模态 AI 智能体，无缝集成浏览器操作、命令行和文件系统，提升工作流程自动化效率。体验先进的视觉解释和复杂推理，实现高效任务处理。",
-              "icon": "/assets/favicon_1759297021758.ico",
-              "enabled": true
-            }
-          ]
         }
       ]
     },
