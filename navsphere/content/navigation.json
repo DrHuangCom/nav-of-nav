@@ -202,6 +202,14 @@
               "description": "Tencent Cloud CodeBuddy is a next-generation AI Code Editor. Powered by the Tencent Yuanbao Code Large Model, it provides services such as code completion, error diagnosis, technical Q&A, and performance optimization. Supporting mainstream programming languages, it improves coding efficiency by 90% and reduces code error rates by 35%, making it suitable for enterprise-level application development and teaching practices.",
               "icon": "/assets/favicon_1759297737464.png",
               "enabled": true
+            },
+            {
+              "id": "1759297887163",
+              "title": "文心快码",
+              "href": "https://comate.baidu.com/en",
+              "description": "As a programming aided tool developed by Baidu based on the the large model ERNIE, Comate can provide many features such as automatic code generation, unit test generation, annotation generation, and intelligent answer. It supports hundreds of programming languages and multiple IDEs.",
+              "icon": "/assets/favicon_1759297889075.ico",
+              "enabled": true
             }
           ]
         },
