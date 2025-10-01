@@ -210,6 +210,14 @@
               "description": "即梦AI一站式智能创作平台，即刻造梦。提供AI绘画和AIGC视频创作体验，拥有激发无限创作灵感的社区。让即梦AI开启您的智能创作之旅，探索梦境实现的无限可能！",
               "icon": "/assets/favicon_1759295118285.ico",
               "enabled": true
+            },
+            {
+              "id": "1759295309711",
+              "title": "Yige",
+              "href": "https://yige.baidu.com/",
+              "description": "访问 yige.baidu.com",
+              "icon": "/assets/favicon_1759295313416.png",
+              "enabled": true
             }
           ]
         },
