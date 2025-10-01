@@ -186,7 +186,16 @@
           "icon": "Code",
           "description": "编程",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1759297266410",
+              "title": "TRAE - Collaborate with Intelligence",
+              "href": "https://www.trae.ai/",
+              "description": "TRAE IDE integrates seamlessly into your workflow, collaborating with you to maximize performance and efficiency.",
+              "icon": "/assets/favicon_1759297447350.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "c7e1d1fa-6597-44dc-a349-05633bfa06ac",
