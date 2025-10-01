@@ -113,6 +113,14 @@
           "description": "编程",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "c7e1d1fa-6597-44dc-a349-05633bfa06ac",
+          "title": "图像",
+          "icon": "Image",
+          "description": "图像",
+          "enabled": true,
+          "items": []
         }
       ]
     },
