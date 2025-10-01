@@ -2,7 +2,7 @@
   "navigationItems": [
     {
       "id": "1",
-      "title": "常用推荐",
+      "title": "前10名top 10",
       "icon": "Star",
       "items": [
         {
@@ -79,7 +79,7 @@
         }
       ],
       "subCategories": [],
-      "description": "",
+      "description": "前10名常用推荐",
       "enabled": true
     },
     {
