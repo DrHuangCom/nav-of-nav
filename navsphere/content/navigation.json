@@ -55,10 +55,10 @@
         },
         {
           "id": "site_1758843275784_2er3hhxqa",
-          "title": "Chatgpt",
-          "href": "https://chatgpt.com",
-          "description": "访问 chatgpt.com by OpenAI",
-          "icon": "/assets/favicon_1758843193204.png",
+          "title": "Microsoft Copilot: Your AI companion",
+          "href": "https://copilot.microsoft.com/",
+          "description": "Microsoft Copilot is your companion to inform, entertain and inspire. Get advice, feedback and straightforward answers. Try Copilot now.",
+          "icon": "/assets/favicon_1759279365887.ico",
           "enabled": true
         },
         {
