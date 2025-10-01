@@ -76,6 +76,14 @@
           "description": "The most powerful AI platform for enterprises. Customize, fine-tune, and deploy AI assistants, autonomous agents, and multimodal AI with open models.",
           "icon": "/assets/favicon_1759279547731.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1759279715331_v0g23xi0x",
+          "title": "Meta AI",
+          "href": "https://www.meta.ai/",
+          "description": "Use Meta AI assistant to get things done, create AI-generated images for free, and get answers to any of your questions. Meta AI is built on Meta&#039;s...",
+          "icon": "/assets/favicon_1759279705117.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],
