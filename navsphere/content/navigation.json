@@ -60,14 +60,6 @@
           "description": "Microsoft Copilot is your companion to inform, entertain and inspire. Get advice, feedback and straightforward answers. Try Copilot now.",
           "icon": "/assets/favicon_1759279365887.ico",
           "enabled": true
-        },
-        {
-          "id": "1_6",
-          "title": "Leonardo.AI",
-          "href": "https://app.leonardo.ai/",
-          "description": "Leonardo.AI是一个人工智能绘图社区和工具。它基于Stable Diffusion人工智能模型,深度集成了其各种插件,提供强大的图片生成和创作功能。",
-          "icon": "/assets/images/logos/leonardo.ico",
-          "enabled": true
         }
       ],
       "subCategories": [],
@@ -314,6 +306,14 @@
               "href": "https://x.ai",
               "description": "xAI is an AI company with the mission of advancing scientific discovery and gaining a deeper understanding of our universe.",
               "icon": "/assets/favicon_1758843143330.ico",
+              "enabled": true
+            },
+            {
+              "id": "1_6",
+              "title": "Leonardo.AI",
+              "href": "https://app.leonardo.ai/",
+              "description": "Leonardo.AI是一个人工智能绘图社区和工具。它基于Stable Diffusion人工智能模型,深度集成了其各种插件,提供强大的图片生成和创作功能。",
+              "icon": "/assets/images/logos/leonardo.ico",
               "enabled": true
             }
           ]
