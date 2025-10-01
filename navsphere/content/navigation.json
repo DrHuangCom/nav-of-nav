@@ -226,6 +226,14 @@
               "description": "Kling AI, tools for creating imaginative images and videos, based on state-of-art generative AI methods.",
               "icon": "/assets/favicon_1759295445069.ico",
               "enabled": true
+            },
+            {
+              "id": "1759295583760",
+              "title": "Wan",
+              "href": "https://wan.video/",
+              "description": "访问 wan.video",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=wan.video",
+              "enabled": true
             }
           ]
         },
