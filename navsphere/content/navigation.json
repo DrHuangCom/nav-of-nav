@@ -333,6 +333,14 @@
               "description": "多情感多模态的Al辅助工具，强大的在线剪辑能力，辅助你轻松创作出优秀的音频作品",
               "icon": "/assets/favicon_1759298667083.ico",
               "enabled": true
+            },
+            {
+              "id": "1759298713122",
+              "title": "音剪",
+              "href": "https://tianyin.music.163.com/",
+              "description": "由喜马拉雅官方自研的一款在线音频剪辑工具",
+              "icon": "/assets/favicon_1759298714632.ico",
+              "enabled": true
             }
           ]
         }
