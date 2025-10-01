@@ -194,6 +194,14 @@
               "description": "TRAE IDE integrates seamlessly into your workflow, collaborating with you to maximize performance and efficiency.",
               "icon": "/assets/favicon_1759297447350.png",
               "enabled": true
+            },
+            {
+              "id": "1759297734577",
+              "title": "Tencent Cloud Code Assistant CodeBuddy – AI Code Editor",
+              "href": "https://www.codebuddy.ai/",
+              "description": "Tencent Cloud CodeBuddy is a next-generation AI Code Editor. Powered by the Tencent Yuanbao Code Large Model, it provides services such as code completion, error diagnosis, technical Q&A, and performance optimization. Supporting mainstream programming languages, it improves coding efficiency by 90% and reduces code error rates by 35%, making it suitable for enterprise-level application development and teaching practices.",
+              "icon": "/assets/favicon_1759297737464.png",
+              "enabled": true
             }
           ]
         },
