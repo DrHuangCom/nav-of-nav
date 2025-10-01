@@ -283,6 +283,14 @@
               "description": "Manus 是一个行动引擎，它超越了答案的范畴，可以执行任务、自动化工作流程，并扩展您的能力。",
               "icon": "/assets/favicon_1759296509371.ico",
               "enabled": true
+            },
+            {
+              "id": "1759296591696",
+              "title": "Manus: 一出手，就拿手",
+              "href": "https://imini.com/zh/",
+              "description": "Manus 是一个行动引擎，它超越了答案的范畴，可以执行任务、自动化工作流程，并扩展您的能力。",
+              "icon": "/assets/favicon_1759296593230.ico",
+              "enabled": true
             }
           ]
         }
