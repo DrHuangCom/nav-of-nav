@@ -183,7 +183,7 @@
               "title": "Kimi",
               "href": "https://www.kimi.com/",
               "description": "访问 kimi",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=kimi",
+              "icon": "http://statics.moonshot.cn/kimi-web-seo/favicon.ico",
               "enabled": true
             }
           ]
