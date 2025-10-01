@@ -194,7 +194,16 @@
           "icon": "Image",
           "description": "图像",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1759295051944",
+              "title": "LiblibAI-哩布哩布AI - 中国领先的AI创作平台",
+              "href": "https://www.liblib.art/",
+              "description": "AI绘画原创模型分享社区，10万+模型免费下载;原汁原味的webUI、comfyUI，在线AI绘图工具免费使用;还可在线进行模型训练。欢迎每一位创作者加入，共同探索AI绘画",
+              "icon": "/assets/favicon_1759295054561.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "e13b3c9a-f246-4be0-b66f-c57997a33af5",
