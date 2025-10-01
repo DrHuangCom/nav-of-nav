@@ -68,6 +68,14 @@
           "description": "Poe Poe汇聚卓越人工智能，提供一站式体验。探索 GPT-5、Claude Opus 4.1、DeepSeek-R1、Veo 3、ElevenLabs 以及数百万其他AI产品。",
           "icon": "/assets/favicon_1759279485464.svg",
           "enabled": true
+        },
+        {
+          "id": "site_1759279554917_hwylh4elg",
+          "title": "Frontier AI LLMs, assistants, agents, services | Mistral AI",
+          "href": "https://mistral.ai/",
+          "description": "The most powerful AI platform for enterprises. Customize, fine-tune, and deploy AI assistants, autonomous agents, and multimodal AI with open models.",
+          "icon": "/assets/favicon_1759279547731.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],
