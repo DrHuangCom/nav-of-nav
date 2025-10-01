@@ -107,6 +107,14 @@
           "items": []
         },
         {
+          "id": "4d5e0221-81a9-45d5-99ec-93ec9ee2b8bb",
+          "title": "搜索",
+          "icon": "Search",
+          "description": "搜索",
+          "enabled": true,
+          "items": []
+        },
+        {
           "id": "7c78d9d5-4b5a-4393-be2d-8b513b95910d",
           "title": "编程",
           "icon": "Code",
@@ -127,14 +135,6 @@
           "title": "视频",
           "icon": "Video",
           "description": "视频",
-          "enabled": true,
-          "items": []
-        },
-        {
-          "id": "4d5e0221-81a9-45d5-99ec-93ec9ee2b8bb",
-          "title": "搜索",
-          "icon": "Search",
-          "description": "搜索",
           "enabled": true,
           "items": []
         },
