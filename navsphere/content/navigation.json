@@ -104,7 +104,16 @@
           "icon": "Heart",
           "description": "通用大模型",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1759291692016",
+              "title": "Deepseek",
+              "href": "https://deepseek.com/",
+              "description": "访问 deepsee top 1",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=deepsee",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "4d5e0221-81a9-45d5-99ec-93ec9ee2b8bb",
