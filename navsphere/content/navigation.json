@@ -291,6 +291,14 @@
               "description": "一个行动引擎，它超越了答案的范畴，可以执行任务、自动化工作流程，并扩展您的能力。",
               "icon": "/assets/favicon_1759296593230.ico",
               "enabled": true
+            },
+            {
+              "id": "1759297020422",
+              "title": "Agent TARS：最佳多模态 AI 智能体",
+              "href": "https://agenttars.ai/zh",
+              "description": "Agent TARS 是一个开源的多模态 AI 智能体，无缝集成浏览器操作、命令行和文件系统，提升工作流程自动化效率。体验先进的视觉解释和复杂推理，实现高效任务处理。",
+              "icon": "/assets/favicon_1759297021758.ico",
+              "enabled": true
             }
           ]
         }
