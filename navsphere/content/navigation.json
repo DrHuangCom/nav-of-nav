@@ -341,6 +341,14 @@
               "description": "创作平台，词曲编唱样样精通，海量风格全部免费使用",
               "icon": "/assets/favicon_1759298714632.ico",
               "enabled": true
+            },
+            {
+              "id": "1759299087965",
+              "title": "Mureka 音疯",
+              "href": "https://www.mureka.cn/",
+              "description": "音乐创作工具，输入歌词即可生成完整专属歌曲",
+              "icon": "/assets/favicon_1759299092028.png",
+              "enabled": true
             }
           ]
         }
