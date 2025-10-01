@@ -112,6 +112,14 @@
               "description": "访问 deepsee top 1",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=deepsee",
               "enabled": true
+            },
+            {
+              "id": "1759292063834",
+              "title": "豆包ai",
+              "href": "https://doubao.com/",
+              "description": "豆包ai",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=do",
+              "enabled": true
             }
           ]
         },
