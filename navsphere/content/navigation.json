@@ -216,7 +216,7 @@
         {
           "id": "c7e1d1fa-6597-44dc-a349-05633bfa06ac",
           "title": "图像视频",
-          "icon": "Image",
+          "icon": "Video",
           "description": "图像",
           "enabled": true,
           "items": [
