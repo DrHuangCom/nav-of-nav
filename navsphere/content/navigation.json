@@ -177,6 +177,14 @@
               "description": "访问 ai.baidu.com",
               "icon": "/assets/favicon_1759294819678.png",
               "enabled": true
+            },
+            {
+              "id": "1759300844311",
+              "title": "Kimi",
+              "href": "https://www.kimi.com/",
+              "description": "访问 kimi",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=kimi",
+              "enabled": true
             }
           ]
         },
