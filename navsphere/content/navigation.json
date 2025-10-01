@@ -1331,6 +1331,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1759291205619",
+      "title": "中国Top5 AI",
+      "icon": "FolderOpen",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
