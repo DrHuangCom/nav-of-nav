@@ -169,6 +169,14 @@
               "description": "访问 metaso.cn",
               "icon": "/assets/favicon_1759293109976.png",
               "enabled": true
+            },
+            {
+              "id": "1759294807601",
+              "title": "百度AI",
+              "href": "https://ai.baidu.com/",
+              "description": "访问 ai.baidu.com",
+              "icon": "/assets/favicon_1759294819678.png",
+              "enabled": true
             }
           ]
         },
