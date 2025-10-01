@@ -105,6 +105,14 @@
           "description": "通用大模型",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "7c78d9d5-4b5a-4393-be2d-8b513b95910d",
+          "title": "编程",
+          "icon": "Code",
+          "description": "编程",
+          "enabled": true,
+          "items": []
         }
       ]
     },
