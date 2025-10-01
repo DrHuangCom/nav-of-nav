@@ -317,7 +317,16 @@
           "icon": "Bell",
           "description": "视频",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1759298592765",
+              "title": "讯飞听见-在线语音转文字-录音转文字",
+              "href": "https://www.iflyrec.com/zhuanwenzi.html",
+              "description": "讯飞听见依托科大讯飞的语音识别技术，为用户提供语音转文字、录音转文字等服务。把录音转成文字选讯飞听见，1小时音频最快5分钟出稿，高效安全。",
+              "icon": "/assets/favicon_1759298597372.ico",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
