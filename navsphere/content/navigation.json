@@ -325,6 +325,14 @@
               "description": "讯飞听见依托科大讯飞的语音识别技术，为用户提供语音转文字、录音转文字等服务。把录音转成文字选讯飞听见，1小时音频最快5分钟出稿，高效安全。",
               "icon": "/assets/favicon_1759298597372.ico",
               "enabled": true
+            },
+            {
+              "id": "1759298663071",
+              "title": "音剪 一站式音频创作平台",
+              "href": "https://audioeditor.ximalaya.com/",
+              "description": "多情感多模态的Al辅助工具，强大的在线剪辑能力，辅助你轻松创作出优秀的音频作品",
+              "icon": "/assets/favicon_1759298667083.ico",
+              "enabled": true
             }
           ]
         }
