@@ -22,14 +22,6 @@
           "enabled": true
         },
         {
-          "id": "1_5",
-          "title": "Producthunt",
-          "href": "https://www.producthunt.com/",
-          "description": "发现新鲜有趣的产品",
-          "icon": "/assets/images/logos/producthunt.png",
-          "enabled": true
-        },
-        {
           "id": "item-1754218579319",
           "enabled": true,
           "title": "DeepSeek - 探索未至之境",
@@ -585,6 +577,14 @@
               "href": "https://tinywow.com/",
               "description": "free 访问 tinywow.com",
               "icon": "/assets/favicon_1759065163405.png",
+              "enabled": true
+            },
+            {
+              "id": "1_5",
+              "title": "Producthunt",
+              "href": "https://www.producthunt.com/",
+              "description": "发现新鲜有趣的产品",
+              "icon": "/assets/images/logos/producthunt.png",
               "enabled": true
             }
           ],
