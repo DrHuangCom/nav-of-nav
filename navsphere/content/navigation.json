@@ -128,6 +128,14 @@
               "description": "访问 www.tongyi.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.tongyi.com",
               "enabled": true
+            },
+            {
+              "id": "1759292754957",
+              "title": "腾讯元宝 - 轻松工作 多点生活",
+              "href": "https://yuanbao.tencent.com/",
+              "description": "腾讯元宝",
+              "icon": "/assets/favicon_1759292793791.png",
+              "enabled": true
             }
           ]
         },
