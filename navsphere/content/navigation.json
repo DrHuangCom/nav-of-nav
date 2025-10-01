@@ -91,6 +91,15 @@
       "enabled": true
     },
     {
+      "id": "1759291205619",
+      "title": "中国Top5 AI",
+      "icon": "FolderOpen",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1758595147031",
       "title": "AI导航网站",
       "icon": "Folder",
@@ -1331,15 +1340,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1759291205619",
-      "title": "中国Top5 AI",
-      "icon": "FolderOpen",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
