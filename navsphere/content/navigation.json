@@ -267,6 +267,14 @@
               "description": "访问 code",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=code",
               "enabled": true
+            },
+            {
+              "id": "1759300592658",
+              "title": "Codefuse 所想",
+              "href": "https://codefuse.alipay.com",
+              "description": "访问 codefuse 所想",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=codef",
+              "enabled": true
             }
           ]
         },
