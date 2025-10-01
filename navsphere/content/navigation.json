@@ -129,6 +129,14 @@
           "description": "视频",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "4d5e0221-81a9-45d5-99ec-93ec9ee2b8bb",
+          "title": "搜索",
+          "icon": "Search",
+          "description": "搜索",
+          "enabled": true,
+          "items": []
         }
       ]
     },
