@@ -218,6 +218,14 @@
               "description": "访问 yige.baidu.com",
               "icon": "/assets/favicon_1759295313416.png",
               "enabled": true
+            },
+            {
+              "id": "1759295442907",
+              "title": "可灵AI（Kling AI）",
+              "href": "https://klingai.com/cn/",
+              "description": "Kling AI, tools for creating imaginative images and videos, based on state-of-art generative AI methods.",
+              "icon": "/assets/favicon_1759295445069.ico",
+              "enabled": true
             }
           ]
         },
